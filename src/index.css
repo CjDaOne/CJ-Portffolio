@@ -1,0 +1,7 @@
+/* TailwindCSS should be installed if needed */
+@import "tailwindcss";
+
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #fcfcf9;
+}

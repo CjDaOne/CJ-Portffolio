@@ -1,0 +1,18 @@
+[build]
+    command = "npm run build"
+    poblish = "dist"
+
+[dev]
+    command = "vite"
+    port = 3000
+    targetPort = 5173
+
+[build]
+    command = "npm run buid"
+    publish = "dist"
+
+[[redirects]]
+    from = "/*"
+    to = "/index.html"
+    status - 200
+    
