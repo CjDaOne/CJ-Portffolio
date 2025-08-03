@@ -27,8 +27,8 @@ export default function Projects() {
           />
           
           <Project
-            title="DevMatch App"
-            link="#"
+            title="CJNF SOLUTIONS"
+            link="https://cjnfsolutions.online/#"
             description="In-progress developer networking tool to find and match with collaborators."
           />
           <Project
