@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <nav className="bg-gray-900 text-white p-4">
       <div className="flex justify-between items-center">
-        <h1 className="text-xl font-bold">Welcome to My Portfolio</h1>
+        <h1 className="text-xl font-bold">Carlaveris Jackson Portfolio</h1>
 
         {/* Hamburger icon for mobile */}
         <button className="md:hidden" onClick={toggleMenu} aria-label="Toggle Menu">
